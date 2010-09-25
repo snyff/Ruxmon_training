@@ -1,0 +1,19 @@
+
+Don't use that as a web site, it's mean to be vulnerable.
+
+To deploy it 
+  mysql < deploy.sql
+
+  the training was done with display_errors = On and magic_quotes_gpc=Off
+
+
+  put the website in the webroot
+
+
+
+see LICENCE for more details on what you can do and cannot do with that.
+
+
+
+
+
